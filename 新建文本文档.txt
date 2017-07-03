@@ -1,0 +1,24 @@
+Motion参数:
+1.计算时长   0.3s
+2.力    Matlab计算输出给Motion  0
+3.位移  Motion计算输入给Matlab 0
+4.速度  Motion计算输入给Matlab 0
+5 时间片 0.001
+6 Input路径
+7 模型名字
+
+Motion脚本:
+ExportPlantout.catvbs  生成Plantout文件
+ImportResult.catvbs   导入result文件
+
+Matlab参数：
+
+
+M
+拷贝motion
+
+Matlab脚本:
+.m文件
+
+
+启动Motion
